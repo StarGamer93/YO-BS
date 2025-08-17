@@ -1,4 +1,4 @@
-YO-BS: Lightweight Live Optimizer for OBS Studio.
+YO-BS: Lightweight Live Optimizer for OBS Studio
 YO-BS is a Python script for OBS Studio designed to enhance live streaming and recording performance. It intelligently optimizes sources, reduces unnecessary processing, and provides detailed logging to help track any issues—all while remaining fully configurable.
 
 Features
